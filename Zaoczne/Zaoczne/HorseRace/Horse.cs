@@ -23,18 +23,49 @@ namespace Zaoczne.HorseRace
         {
             Console.WriteLine(String.Format(
                 "Approaching start line {0}", ID));
-            double distance = 0.0;
             race.StartBarrier.SignalAndWait();
-            while (distance < race.Distance)
-            {
-                distance += speed;
-            }
-            finishTime = DateTime.Now.Ticks;
+            racing(race);
             race.HorseFinished(this);
             //Console.WriteLine(String.Format("Horse {0} ended Race", ID));
 
         }
 
+        private void racing(Race race)
+        {
+            while (distance < race.Distance)
+            {
+                distance += speed;
+            }
+            finishTime = DateTime.Now.Ticks;
+        }
+
+
+        private void racingWithLock(Race race)
+        {
+            bool isRunning = true;
+            double distance = 0.0;
+            while (isRunning)
+            {
+                //We check position twice, to enshure the best and shortest synchronization, no thread can interrupt between checking and getting ticks from the clock.
+                //This approach will use synchronization so apriori each itertion of while will take longer time
+                //Moreover checking distance twice also add some time to every iteration
+                //We cold use one if, and put isRunning=false in the first one, but this would prolong lock time. So increase cost of synchronization.
+                lock (race) { 
+                    if (distance >= race.Distance)
+                    {
+                        finishTime.Now.Ticks
+                    } 
+                }
+                if (distance >= race.Distance)
+                {
+                    isRunning = false;
+                }
+                else
+                {
+                    distance += speed;
+                }
+            }
+        }
 
     }
 }

@@ -10,6 +10,8 @@ namespace Zaoczne.HorseRace
     {
         public double Distance = 1000;
         private List<Horse> horses = new List<Horse>();
+        public Barrier StartBarrier, EndBarrier;
+        private long startTime;
 
         public void SetUpRace()
         {
@@ -20,20 +22,41 @@ namespace Zaoczne.HorseRace
                 Horse h = new Horse(rand.NextDouble()*50+1);
                 horses.Add(h);
             }
+            StartBarrier = new Barrier(horses.Count, (b) =>
+            {
+                Console.WriteLine("START !!!!");
+                startTime = DateTime.Now.Ticks;
+            });
 
-            foreach(Horse h in horses)
+            EndBarrier = new Barrier(horses.Count, (b) =>
+            {
+                Console.WriteLine("Results !!!!");
+                printFinalResults();
+            });
+            foreach (Horse h in horses)
             {
                 Thread t = new Thread(new ThreadStart(() =>
                 {
                     h.DoRace(this);
                 }));
-                t.Start();
+                t.Start( );
             }
         }
 
+
         public void HorseFinished(Horse horse)
         {
-            Console.WriteLine(String.Format("Horse {0} finished Race", horse.ID));
+            EndBarrier.SignalAndWait();
+        }
+
+        public void printFinalResults()
+        {
+            horses.Sort((h1, h2) => { return (int) (h1.finishTime - h2.finishTime); });
+            for (int place = 1; place <= horses.Count; place++) {
+                Horse horse = horses[place - 1];
+                Console.WriteLine(String.Format("Place {0} Horse {1} with time:{2} ticks",
+                    place, horse.ID, horse.finishTime - startTime));
+            }
         }
 
     }

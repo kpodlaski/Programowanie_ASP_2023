@@ -11,6 +11,7 @@ namespace Zaoczne.HorseRace
         public int ID { get; private set; }
         private double speed;
         static int lastId = 0;
+        public long finishTime { get; private set; } 
 
         public Horse(double speed)
         {
@@ -23,12 +24,14 @@ namespace Zaoczne.HorseRace
             Console.WriteLine(String.Format(
                 "Approaching start line {0}", ID));
             double distance = 0.0;
+            race.StartBarrier.SignalAndWait();
             while (distance < race.Distance)
             {
                 distance += speed;
             }
+            finishTime = DateTime.Now.Ticks;
             race.HorseFinished(this);
-            Console.WriteLine(String.Format("Horse {0} ended Race", ID));
+            //Console.WriteLine(String.Format("Horse {0} ended Race", ID));
 
         }
 

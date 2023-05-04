@@ -1,0 +1,16 @@
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\bin\Debug\net5.0\Filozofowie.exe
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\bin\Debug\net5.0\Filozofowie.deps.json
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\bin\Debug\net5.0\Filozofowie.runtimeconfig.json
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\bin\Debug\net5.0\Filozofowie.runtimeconfig.dev.json
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\bin\Debug\net5.0\Filozofowie.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\bin\Debug\net5.0\ref\Filozofowie.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\bin\Debug\net5.0\Filozofowie.pdb
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\obj\Debug\net5.0\Filozofowie.csprojAssemblyReference.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\obj\Debug\net5.0\Filozofowie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\obj\Debug\net5.0\Filozofowie.AssemblyInfoInputs.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\obj\Debug\net5.0\Filozofowie.AssemblyInfo.cs
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\obj\Debug\net5.0\Filozofowie.csproj.CoreCompileInputs.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\obj\Debug\net5.0\Filozofowie.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\obj\Debug\net5.0\ref\Filozofowie.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\obj\Debug\net5.0\Filozofowie.pdb
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Filozofowie\obj\Debug\net5.0\Filozofowie.genruntimeconfig.cache

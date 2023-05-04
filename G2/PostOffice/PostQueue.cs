@@ -10,20 +10,28 @@ namespace PostOffice
 
         public int Count()
         {
-            return q.Count;
+            lock (this) {
+                return q.Count;
+            }
         }
 
         public Client Pop()
         {
             Client c;
-            c = q[0];
-            q.Remove(c);
+            lock (this) {
+                c = q[0];
+                q.Remove(c);
+                
+            }
             return c;
         }
 
         public void Push(Client c)
         {
-            q.Add(c);
+            lock (this)
+            {
+                q.Add(c);
+            }
         }
     }
 }

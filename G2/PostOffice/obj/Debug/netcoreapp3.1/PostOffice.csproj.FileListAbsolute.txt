@@ -1,0 +1,13 @@
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.csprojAssemblyReference.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.AssemblyInfoInputs.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.AssemblyInfo.cs
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.csproj.CoreCompileInputs.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\bin\Debug\netcoreapp3.1\PostOffice.exe
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\bin\Debug\netcoreapp3.1\PostOffice.deps.json
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\bin\Debug\netcoreapp3.1\PostOffice.runtimeconfig.json
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\bin\Debug\netcoreapp3.1\PostOffice.runtimeconfig.dev.json
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\bin\Debug\netcoreapp3.1\PostOffice.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\bin\Debug\netcoreapp3.1\PostOffice.pdb
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.pdb
+C:\Users\KP\source\repos\ProgramowanieASP2023\G2\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.genruntimeconfig.cache

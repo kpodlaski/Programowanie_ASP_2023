@@ -1,0 +1,15 @@
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\bin\Debug\SpeedwayRace.exe.config
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\bin\Debug\SpeedwayRace.exe
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\bin\Debug\SpeedwayRace.pdb
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\obj\Debug\SpeedwayRace.csprojAssemblyReference.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\obj\Debug\MainWindow.g.cs
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\obj\Debug\App.g.cs
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\obj\Debug\SpeedwayRace_MarkupCompile.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\obj\Debug\SpeedwayRace_MarkupCompile.lref
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\obj\Debug\MainWindow.baml
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\obj\Debug\SpeedwayRace.g.resources
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\obj\Debug\SpeedwayRace.Properties.Resources.resources
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\obj\Debug\SpeedwayRace.csproj.GenerateResource.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\obj\Debug\SpeedwayRace.csproj.CoreCompileInputs.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\obj\Debug\SpeedwayRace.exe
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\SpeedwayRace\obj\Debug\SpeedwayRace.pdb

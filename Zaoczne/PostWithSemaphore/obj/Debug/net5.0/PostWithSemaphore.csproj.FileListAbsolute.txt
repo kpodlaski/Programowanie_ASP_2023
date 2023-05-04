@@ -1,0 +1,16 @@
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\bin\Debug\net5.0\PostWithSemaphore.exe
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\bin\Debug\net5.0\PostWithSemaphore.deps.json
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\bin\Debug\net5.0\PostWithSemaphore.runtimeconfig.json
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\bin\Debug\net5.0\PostWithSemaphore.runtimeconfig.dev.json
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\bin\Debug\net5.0\PostWithSemaphore.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\bin\Debug\net5.0\ref\PostWithSemaphore.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\bin\Debug\net5.0\PostWithSemaphore.pdb
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\obj\Debug\net5.0\PostWithSemaphore.csprojAssemblyReference.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\obj\Debug\net5.0\PostWithSemaphore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\obj\Debug\net5.0\PostWithSemaphore.AssemblyInfoInputs.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\obj\Debug\net5.0\PostWithSemaphore.AssemblyInfo.cs
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\obj\Debug\net5.0\PostWithSemaphore.csproj.CoreCompileInputs.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\obj\Debug\net5.0\PostWithSemaphore.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\obj\Debug\net5.0\ref\PostWithSemaphore.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\obj\Debug\net5.0\PostWithSemaphore.pdb
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\PostWithSemaphore\obj\Debug\net5.0\PostWithSemaphore.genruntimeconfig.cache

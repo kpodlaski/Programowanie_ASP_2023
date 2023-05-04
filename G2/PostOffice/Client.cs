@@ -18,12 +18,12 @@ namespace PostOffice
 
         public void taskToDo(Clerk c)
         {
-            Console.WriteLine(String.Format(
-             "Klient {0}: Podchodzę do okienka {1}", 
-             ID, c.ID));
-            Thread.Sleep(rand.Next(10));
-            Console.WriteLine(String.Format("Klient {0}: Odchodzę od okienka {1}", ID, c.ID));
-
+            //Console.WriteLine(String.Format(
+                // "Klient {0}: Podchodzę do okienka {1}", 
+                // ID, c.ID));
+                Thread.Sleep(rand.Next(10));
+                Console.WriteLine(String.Format("Klient {0}: Odchodzę od okienka {1}", ID, c.ID));
+            
         }
 
     }

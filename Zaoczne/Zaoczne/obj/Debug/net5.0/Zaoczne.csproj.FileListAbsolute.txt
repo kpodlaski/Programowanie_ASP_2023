@@ -1,0 +1,16 @@
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\obj\Debug\net5.0\Zaoczne.csprojAssemblyReference.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\obj\Debug\net5.0\Zaoczne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\obj\Debug\net5.0\Zaoczne.AssemblyInfoInputs.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\obj\Debug\net5.0\Zaoczne.AssemblyInfo.cs
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\obj\Debug\net5.0\Zaoczne.csproj.CoreCompileInputs.cache
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\bin\Debug\net5.0\Zaoczne.exe
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\bin\Debug\net5.0\Zaoczne.deps.json
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\bin\Debug\net5.0\Zaoczne.runtimeconfig.json
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\bin\Debug\net5.0\Zaoczne.runtimeconfig.dev.json
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\bin\Debug\net5.0\Zaoczne.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\bin\Debug\net5.0\ref\Zaoczne.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\bin\Debug\net5.0\Zaoczne.pdb
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\obj\Debug\net5.0\Zaoczne.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\obj\Debug\net5.0\ref\Zaoczne.dll
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\obj\Debug\net5.0\Zaoczne.pdb
+C:\Users\KP\source\repos\ProgramowanieASP2023\Zaoczne\Zaoczne\obj\Debug\net5.0\Zaoczne.genruntimeconfig.cache

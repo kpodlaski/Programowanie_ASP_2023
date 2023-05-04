@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H36e8Ahf1IF6sm2Ml0rtusiufMb6F3MeX2Wv3ghtD30Q/LzVRT+rSbqHj0dk5NLdRtzgNlQn8dZ76p/KUMuRsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KP\\source\\repos\\ProgramowanieASP2023\\Zaoczne\\UnitTests\\UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KP\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\KP\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\KP\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
